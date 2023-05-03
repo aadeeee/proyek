@@ -8,7 +8,7 @@ class Gaming extends Component{
                 <div className="container">
                     <Navbar />
                     <div className="Title">
-                        <h1>Category</h1>
+                        <h1>Category 1</h1>
                     </div>
                 </div>
             </div>
